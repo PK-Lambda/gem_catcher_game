@@ -11,8 +11,13 @@ config_version=5
 [application]
 
 config/name="Gem_Catcher_udemy"
+run/main_scene="uid://bbweubmiome3u"
 config/features=PackedStringArray("4.4", "Mobile")
 config/icon="res://icon.svg"
+
+[display]
+
+window/stretch/mode="canvas_items"
 
 [rendering]
 
