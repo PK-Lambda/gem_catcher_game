@@ -1,2 +1,6 @@
-res://Scenes/Test/Test.tscn
-res://Scenes/Test/Test.gd
+res://Scenes/Game.tscn
+res://Scenes/Paddle.tscn
+res://Scenes/Gem.tscn
+res://Scenes/Game/Game.tscn
+res://Scenes/Gem/Gem.tscn
+res://Scenes/Gem/Gem.gd
