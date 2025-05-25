@@ -16,3 +16,4 @@ position = Vector2(568, 606)
 
 [node name="Gem" parent="." instance=ExtResource("3_y3kpf")]
 position = Vector2(573, 134)
+script = null
