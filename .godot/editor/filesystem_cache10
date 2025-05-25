@@ -1,4 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
+<<<<<<< HEAD
 ::res://::1748121926
 README.md::TextFile/TextFile::-1::1748048728::0::1::::<><><>0<>0<><>::
 ::res://assets/::1748077884
@@ -16,3 +17,23 @@ Game.tscn::PackedScene::8396428177304726786::1748081772::0::1::::<><><>0<>0<><>:
 Gem.tscn::PackedScene::1164648318148141327::1748081374::0::1::::<><><>0<>0<><>::uid://dovypu6xu34o0::::res://Scenes/Gem/Gem.gd<>uid://cuxem0kqwpymw::::res://assets/element_red_diamond.png
 ::res://Scenes/Paddle/::1748080531
 Paddle.tscn::PackedScene::2140203868323908315::1748080407::0::1::::<><><>0<>0<><>::uid://c004v5te47r40::::res://assets/paddleBlu.png
+=======
+::res://::1748170915
+README.md::TextFile/TextFile::-1::1748170186::0::1::::<><><>0<>0<><>::
+::res://assets/::1748170186
+bgm_action_5.mp3::AudioStreamMP3/AudioStreamMP3::3346584672947319376::1748170186::1748170186::1::::<><><>0<>0<>b180a68a5dc52f68dbc096a475a2b324<>res://.godot/imported/bgm_action_5.mp3-3ad4586224578ab3e87a14a65a3bd530.mp3str::
+element_red_diamond.png::CompressedTexture2D/CompressedTexture2D::6224364555276930918::1748170186::1748170186::1::::<><><>0<>0<>37a617bbb84264d29a743bd47d739a68<>res://.godot/imported/element_red_diamond.png-603024255c2061cd184c6df4e32a45e0.ctex::
+explode.wav::AudioStreamWAV/AudioStreamWAV::5732480403998685183::1748170186::1748170186::1::::<><><>0<>0<>629d080d2b456b02bcaf0b40432c12b3<>res://.godot/imported/explode.wav-40c39c16c07b83fb26cfbe982d4a37e3.sample::
+GameBg.png::CompressedTexture2D/CompressedTexture2D::2624100690531142302::1748170186::1748170186::1::::<><><>0<>0<>81ac828d5b13aef276c847d15512c4aa<>res://.godot/imported/GameBg.png-34f991cdcfec60ad4058d0a22edcb255.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::7797192402854461508::1748170186::1748170186::1::::<><><>0<>0<>8ded1455b6e9d8f8ecd27ca3fb5d41f7<>res://.godot/imported/icon.svg-56083ea2a1f1a4f1e49773bdc6d7826c.ctex::
+paddleBlu.png::CompressedTexture2D/CompressedTexture2D::6580971801924298439::1748170186::1748170186::1::::<><><>0<>0<>2a3be3e441ddaa82dd4cee679387574f<>res://.godot/imported/paddleBlu.png-f75258e8e340f5b13a0243af8fa0790c.ctex::
+spell1_0.wav::AudioStreamWAV/AudioStreamWAV::4467288214473318989::1748170186::1748170186::1::::<><><>0<>0<>f6fdba43e3418b05623c0e550709c23c<>res://.godot/imported/spell1_0.wav-e5760d41344d3af38920e70ae900dfc5.sample::
+::res://Scenes/::1748170186
+::res://Scenes/Game/::1748170186
+Game.tscn::PackedScene/PackedScene::8396428177304726786::1748170186::0::1::::<><><>0<>0<><>::uid://bdnes4thj8cr3::::res://assets/GameBg.png<>uid://5qy3y32pnhpj::::res://Scenes/Paddle/Paddle.tscn<>uid://quft8kybaou6::::res://Scenes/Gem/Gem.tscn
+::res://Scenes/Gem/::1748170588
+Gem.gd::GDScript::2398429425532257611::1748170588::0::1::::<>Area2D<><>0<>0<><>::
+Gem.tscn::PackedScene/PackedScene::1164648318148141327::1748170186::0::1::::<><><>0<>0<><>::uid://dovypu6xu34o0::::res://Scenes/Gem/Gem.gd<>uid://cuxem0kqwpymw::::res://assets/element_red_diamond.png
+::res://Scenes/Paddle/::1748170186
+Paddle.tscn::PackedScene/PackedScene::2140203868323908315::1748170186::0::1::::<><><>0<>0<><>::uid://c004v5te47r40::::res://assets/paddleBlu.png
+>>>>>>> db48b8bbf3f5e69776d27b88666f8b77bffcd91b
